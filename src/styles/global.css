@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'Hack';
-  src: url(/assets/fonts/Hack-NF.ttf);
+  font-family: 'Nerd Font';
+  src: url(/assets/fonts/NerdFontR.ttf);
   display: swap;
 }
 
 * {
-  font-family: 'Hack', monospace;
+  font-family: 'Nerd Font', monospace;
 }
 
 html,
