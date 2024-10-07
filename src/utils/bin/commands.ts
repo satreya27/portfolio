@@ -39,7 +39,7 @@ Type 'sumfetch' to display my summary!
 // };
 
 export const funfacts = async (args: string[]): Promise<string> => {
-  return `List of places fun facts about me:\n
+  return `List of fun facts about me:\n
 Kai ig
 6'5 ig
 Nonchalant ig
