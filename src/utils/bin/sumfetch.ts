@@ -34,7 +34,7 @@ const sumfetch = async (args: string[]): Promise<string> => {
   \\   \\       ~-./_ _    |    .- ; (  \\_ _ _,\\'         SOCIALS 
   ~    ~.           .-~-.|.-*      _        {-,       󰇮  ${config.email}
    \\      ~-. _ .-~                 \\      /\\'          ${config.ps1_hostname}
-    \\                   }            {   .*           
+    \\                   }            {   .*              sxatreya     
      ~.                 '-/        /.-~----.          
        ~- _             /        >..----.\\\\
            ~ - - - - ^}_ _ _ _ _ _ _.-\\\\
